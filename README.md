@@ -57,6 +57,7 @@ _Votre réponse pour l'exercice 1 :_
 Expliquez votre solution ici
 [Ajoutez vos captures d'écran]
 ```
+![image alt](https://github.com/Hamzatakieddine/tp-react-hooks-blog/blob/1dda64936ae153df2fab7edcd7922e0cb811eba1/Exercice1.png)
 
 ### Exercice 2 : Hooks Personnalisés
 #### Objectif : Créer des hooks réutilisables
