@@ -54,7 +54,10 @@ Pour chaque exercice :
 
 _Votre réponse pour l'exercice 1 :_
 ```
-Afficher des posts depuis une API, à permettre la recherche par titre ou contenu, et à gérer l'état de l'application pendant le chargement des données. Cela permet de mettre en pratique l'utilisation des hooks React (useState, useEffect, etc.) et de gérer l'interactivité avec l'utilisateur de manière efficace.
+Afficher des posts depuis une API, à permettre la recherche par titre ou contenu,
+et à gérer l'état de l'application pendant le chargement des données.
+Cela permet de mettre en pratique l'utilisation des hooks React (useState, useEffect, etc.)
+ et de gérer l'interactivité avec l'utilisateur de manière efficace.
 ```
 ![image alt](https://github.com/Hamzatakieddine/tp-react-hooks-blog/blob/1dda64936ae153df2fab7edcd7922e0cb811eba1/Exercice1.png)
 
